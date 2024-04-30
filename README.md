@@ -2,11 +2,11 @@
 ***
 To run the mechanism run these commands sequentially
 
-'rosrun act_pump actp.py'
+`rosrun act_pump actp.py`
 
 To run any of the pumps replace command in the rosservice call with any of the pumps.
 
-'rosservice call control_pumps /command'
+`rosservice call control_pumps /command`
 
 For example: 'rosservice call control_pumps /pump1' will actuate the first pump.
 
@@ -20,9 +20,9 @@ This service call returns success:True once the pumps are actuated without any e
   
   Use the following command:
   
-  'sudo chmod 666 #port'
+  `sudo chmod 666 #port`
   
-  Replace port with whichever port is being used by external mechanisms.
+  Replace #port with whichever port is being used by external mechanisms.
   
 * Electronic failures
   
