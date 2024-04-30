@@ -8,7 +8,7 @@ To run any of the pumps replace command in the rosservice call with any of the p
 
 `rosservice call control_pumps /command`
 
-For example: 'rosservice call control_pumps /pump1' will actuate the first pump.
+For example: `rosservice call control_pumps /pump1` will actuate the first pump.
 
 This service call returns success:True once the pumps are actuated without any error
 
