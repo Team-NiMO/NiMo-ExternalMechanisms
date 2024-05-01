@@ -5,9 +5,10 @@ The external mechanisms subsystem is responsible for cleaning and caliberating t
 
 ## Installation
 ***
+Install in the `src` folder of the workspace 
 ```
 git clone git@github.com:Team-NiMO/NiMo-ExternalMechanisms.git
-cd NiMo-ExternalMechanisms
+cd ~/ws/
 catkin_make
 ```
 
