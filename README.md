@@ -7,9 +7,7 @@ The external mechanisms subsystem is responsible for cleaning and caliberating t
 ***
 ```
 git clone git@github.com:Team-NiMO/NiMo-ExternalMechanisms.git
-
 cd NiMo-ExternalMechanisms
-
 catkin_make
 ```
 
