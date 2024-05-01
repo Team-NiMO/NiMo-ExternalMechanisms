@@ -1,3 +1,16 @@
+
+
+## Installation
+***
+`git clone git@github.com:Team-NiMO/NiMo-ExternalMechanisms.git`
+`cd NiMo-ExternalMechanisms`
+`catkin_make`
+***
+
+
+
+
+
 ## Use
 ***
 To run the mechanism run these commands sequentially
