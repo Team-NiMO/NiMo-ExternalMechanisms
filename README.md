@@ -1,15 +1,17 @@
 
+# External Mechanisms ROS package for MRSD '25 Team D: NiMo
+
+this subsystem is responsible for cleaning and caliberating the nitrate sensor before it's inserted into a cornstalk so that the data being retrived from it is more reliable.
 
 ## Installation
 ***
 `git clone git@github.com:Team-NiMO/NiMo-ExternalMechanisms.git`
+
 `cd NiMo-ExternalMechanisms`
+
 `catkin_make`
+
 ***
-
-
-
-
 
 ## Use
 ***
