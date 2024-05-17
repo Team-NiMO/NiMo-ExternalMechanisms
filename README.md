@@ -44,3 +44,15 @@ This service call returns success:True once the pumps are actuated without any e
   
   This might happen sometimes as some of our electronic components are unreliable. We are working on getting it fixed ASAP!
 *** 
+
+## Insturctions to make Calibration Solutions
+***
+* Low Nitrate Conc Solution
+  
+  add 0.14 grams of the potassium nitrate solution to a 100 grams of DI Water
+  
+* High Nitrate Conc Solution
+  
+  add 1.4 grams of the potassium nitrate solution to a 100 grams of DI Water
+  
+*** 
